@@ -12,5 +12,6 @@ p {
 
 figcaption {
   font: normal 0.75em/1.5em Georgia, "Times New Roman", serif;
-  color: rgba(255,0,0,0.5)
+  color: #777;
+  text-align: right;
 }
